@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<img src="https://github.com/sabaj30/sabaj30/blob/main/banner.png?raw=true" alt="banner" style="width:100%;"/>
+<img src="https://github.com/sabaj30/sabaj30/blob/main/Saba.png?raw=true" alt="banner" style="width:100%;"/>
 
 ### 👋 Hi there, I'm **Saba Jafari**
 🎓 Junior .NET Backend Developer | 💻 Passionate about Web APIs and Clean Code  
